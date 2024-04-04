@@ -1,0 +1,2 @@
+# OpenCore_MacOS_EFI_RX6700XT_12600KF_B760-F_SN550_RC20_AX211
+本人才用OpenCore引导的EFI文件，实现黑苹果。蓝牙能正常使用，AirPods Pro二代成功适配；流畅度感观不错。
